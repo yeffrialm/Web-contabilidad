@@ -24,12 +24,8 @@ h1{
 
 .letras{
   color:white;
-  
   font-family: 'Ubuntu', sans-serif;
-
   background: rgba(237,237,237,1);
-
-
   background: rgba(10,10,10,0.31);
   background: -moz-linear-gradient(left, rgba(10,10,10,0.31) 0%, rgba(237,237,237,0.31) 0%, rgba(3,3,3,0.44) 20%, rgba(3,3,3,0.51) 30%, rgba(3,3,3,0.29) 92%, rgba(3,3,3,0.24) 98%);
   background: -webkit-gradient(left top, right top, color-stop(0%, rgba(10,10,10,0.31)), color-stop(0%, rgba(237,237,237,0.31)), color-stop(20%, rgba(3,3,3,0.44)), color-stop(30%, rgba(3,3,3,0.51)), color-stop(92%, rgba(3,3,3,0.29)), color-stop(98%, rgba(3,3,3,0.24)));
@@ -84,22 +80,16 @@ h1{
     }
   }
   
-
-
-
 li{
     color: #424242;
 }
 
 h5{
-    
     color: #424242;
     padding: 5px;
    margin-bottom: 8px;
    margin-top: 30px;
    font-family: 'Roboto', sans-serif;
-
-   
 }
 
 .item-img{
@@ -476,4 +466,13 @@ h6{
   text-align: center;
   font-size: 13px;
   color: #ddd;
+}
+.imagen_director{
+ padding: 20px;
+margin-top: 40px;
+
+}
+
+#carouselExampleIndicators{
+  margin-top: 50px;
 }
