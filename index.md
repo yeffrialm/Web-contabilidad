@@ -4492,7 +4492,7 @@
     <section id="gallery-graduandos">
         <div class="container-fluid">
             <div class="section-header">
-                <h3 class="section-title">nuestros graduandos</h3>
+                <h3 class="section-title">Nuestros Graduandos</h3>
                 <span class="section-divider"></span>
             </div>
 
